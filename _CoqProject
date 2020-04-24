@@ -1,0 +1,6 @@
+-R src CoqSat
+-arg -w
+-arg all
+src/Formula.v
+src/Solver.v
+src/SolverProof.v
